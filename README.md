@@ -14,11 +14,11 @@
 ### Images Of The Project
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tunahan1306/Graph-Based-Text-Summarization-FRONTEND/main/images/1.png" name="image-name" width="450px">
-    <img src="https://raw.githubusercontent.com/tunahan1306/Graph-Based-Text-Summarization-FRONTEND/main/images/2.png" name="image-name" width="450px">
-    <img src="https://raw.githubusercontent.com/tunahan1306/Graph-Based-Text-Summarization-FRONTEND/main/images/3.png" name="image-name" width="450px">
-    <img src="https://raw.githubusercontent.com/tunahan1306/Graph-Based-Text-Summarization-FRONTEND/main/images/4.png" name="image-name" width="450px">
-    <img src="https://raw.githubusercontent.com/tunahan1306/Graph-Based-Text-Summarization-FRONTEND/main/images/5.png" name="image-name" width="450px"> 
+  <img src="https://raw.githubusercontent.com/tunahan1306/Graph-Based-Text-Summarization-FRONTEND/main/images/1.png" name="image-name" width="900px">
+    <img src="https://raw.githubusercontent.com/tunahan1306/Graph-Based-Text-Summarization-FRONTEND/main/images/2.png" name="image-name" width="900px">
+    <img src="https://raw.githubusercontent.com/tunahan1306/Graph-Based-Text-Summarization-FRONTEND/main/images/3.png" name="image-name" width="900px">
+    <img src="https://raw.githubusercontent.com/tunahan1306/Graph-Based-Text-Summarization-FRONTEND/main/images/4.png" name="image-name" width="900px">
+    <img src="https://raw.githubusercontent.com/tunahan1306/Graph-Based-Text-Summarization-FRONTEND/main/images/5.png" name="image-name" width="900px"> 
       
 </div>
 

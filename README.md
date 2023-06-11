@@ -55,11 +55,15 @@
     ```sh
     npm install
     ```
-4. Enter your API in `src/app/configs/config.ts`
+3. Enter your API in `src/app/configs/config.ts`
    ```js
    export const BASE_URL = "http://127.0.0.1:8080";
    ```
-
+4. Run the project
+    ```sh
+    npm run electron-build
+    ```
+    
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
